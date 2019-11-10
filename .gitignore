@@ -5,6 +5,9 @@
 ## Build generated
 build/
 DerivedData/
+Pods/
+Podfile.lock
+MVVM_RXSwift_Cars.xcworkspace
 
 ## Various settings
 *.pbxuser

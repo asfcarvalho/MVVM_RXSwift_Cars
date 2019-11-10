@@ -1,0 +1,6 @@
+framework module Pods_MVVM_RXSwift_CarsUITests {
+  umbrella header "Pods-MVVM_RXSwift_CarsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

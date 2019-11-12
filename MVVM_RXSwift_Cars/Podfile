@@ -6,8 +6,8 @@ target 'MVVM_RXSwift_Cars' do
   use_frameworks!
 
   # Pods for MVVM_RXSwift_Cars
-  pod 'RxSwift'
-  pod 'RxCocoa'
+  pod 'RxSwift', '4.5'
+  pod 'RxCocoa', '4.5'
 
   target 'MVVM_RXSwift_CarsTests' do
     inherit! :search_paths
